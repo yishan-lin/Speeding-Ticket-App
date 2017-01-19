@@ -16,3 +16,7 @@ This app would be an idiotproof DIY, self-serve, incremental 1/2/3/4/5...step pr
 Starting with static pages and CA alone, since that's where my knowledge (technical/non-technical) is bound to as of now.
 
 Inspired by Thumbtack.
+
+If you try to get information from the traffic court tellers in person, the good fine clerks at the courts usually don't know the scope of the laws themselves.  Their incentive/objective is to collect the fines that you owe them (even if the law explicitly says payment after judgement, not before) - not to give you advice or help you navigate the system.  Also traffic courts usually don't pick up their phones.
+
+Everyone should know what their legal options are, without needing a lawyer or having to extensively research online for that info.

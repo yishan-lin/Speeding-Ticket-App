@@ -14,4 +14,10 @@ class StaticpagesController < ApplicationController
   def enoughtime
   end
 
+  def enoughtime2
+  end
+
+  def contest
+  end
+
 end

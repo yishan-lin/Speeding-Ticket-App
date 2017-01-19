@@ -1,5 +1,12 @@
-<h3>Look at this section of your ticket and compare it with the speed limit.</h3>
+<center><h2>Look at this section of your ticket.</h2>
+  <h3> Do you see the Speed Approx and P.F Max Spd boxes?</h3>
 
+<%= image_tag("sampleticket.jpg", :size => "800x900" )%>
+</center>
+<br><i>
+<p><strong>Speed Approx:</strong>  the approximate speed that the police officer cited you traveling at before he/she stopped you.</p>
+<p><strong>P.F/Max Spd:</strong>  the speed limit of the area you were traveling at.</p></i>
 
+<center>
 
-<h3>Is the difference between your "Speed Cited" and the "Max Speed" box greater than or equal to 25MPH?</h3>
+<%= link_to "I see it.", '/ticketnext', class: "btn btn-primary" %>

@@ -1,8 +1,10 @@
 <h3>Is the difference between <i>your</i> "Speed Cited" and "Max Speed" >= 25MPH ?</h3>
 </center>
 
-<%= form_tag do |x| %>
-Some shit in here
+<%= form_tag do %>
+
+ <%= text_field_tag :hello%>
+ <%= text_area_tag :anything%>
 <% end %>
 
 <%= link_to "No, I was not traveling 25MPH or higher than the speed limit.", "/contest", class: "btn btn-primary" %>

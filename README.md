@@ -20,3 +20,7 @@ Inspired by Thumbtack.
 If you try to get information from the traffic court tellers in person, the good fine clerks at the courts usually don't know the scope of the laws themselves.  Their incentive/objective is to collect the fines that you owe them (even if the law explicitly says payment after judgement, not before) - not to give you advice or help you navigate the system.  Also traffic courts usually don't pick up their phones.
 
 Everyone should know what their legal options are, without needing a lawyer or having to extensively research online for that info.
+
+1/20: Realizing that if I ever want to get beyond static pages and basic RoR view creations, need to:
+A) Finish LRTHW, get to the part on objects, otherwise I'm lacking a crucial fundamental and can't really undersatnd things beyond the scope of the rails console.
+B) Learn Javascript/JQuery because everyone likes shit to move, not to be static.
